@@ -5,18 +5,21 @@ Software Engineer @ ML Enthusiast
 - 🔭 Here's my [portfolio](https://prajith5.github.io/Portfolio/)                                                 
 - 🌱 I’m currently pursuing Msc.Dcs and Developing Projects And Learning Techs
 ### 💻 I Code In
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
-<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/sqlite.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/docker.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-
+<p align="center">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/sqlite.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/fluency/48/docker.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+</p>
 ### ⚙️ Technologies & Frameworks
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/linux.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<p align="center">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/linux.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+</p>
 
 
 ### 💻 Workspace Spec
