@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Prajith S
 
 Software Engineer @ ML Enthusiast
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://prajith5.github.io/Portfolio/)                                                 
 - 🌱 I’m currently pursuing Msc.Dcs and Developing Projects And Learning Techs
 ### 💻 I Code In
