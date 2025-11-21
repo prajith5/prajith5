@@ -5,8 +5,8 @@ Software Engineer @ ML Enthusiast
 - 🌱 I’m currently pursuing Msc.Dcs and Developing Projects And Learning Techs
 ### 💻 I Code In
 <p align="center">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
   <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/sqlite.png"/>
   <img height="50" width="50" src="https://img.icons8.com/fluency/48/docker.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
